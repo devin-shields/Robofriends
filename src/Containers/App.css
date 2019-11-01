@@ -1,0 +1,14 @@
+/*Vendor:      Brownfox
+* License URL: https://www.fontspring.com/licenses/brownfox/webfont
+*/
+
+@font-face {
+    font-family: 'geometria-light';
+    src: url('geometria-light-webfont.woff2') format('woff2'),
+         url('geometria-light-webfont.woff') format('woff');
+ }
+ 
+ hi {
+     font-family: 'geometria-light';
+     
+ }
